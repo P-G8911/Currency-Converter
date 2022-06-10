@@ -8,7 +8,7 @@
 - Javascript 🌟
 ---
 ### 🔗🔗Link: https://p-g8911.github.io/Currency-Converter/
----
+<!-- --- -->
 <!-- ### Landing page
 ![Capture49](https://user-images.githubusercontent.com/91379432/146636625-f4cee0c7-685f-4b4e-a7fa-3f936ec85429.PNG) -->
 
