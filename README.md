@@ -23,6 +23,7 @@
 - Run the `index.html` file in your web browser -->
 ---
 ## How it Looks ?
+<img src = "./images/1.png">
 
 ---
 ### To Do list
