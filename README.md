@@ -22,6 +22,9 @@
 - Extract the folder
 - Run the `index.html` file in your web browser -->
 ---
+## How it Looks ?
+
+---
 ### To Do list
 - [ ] Add more currencies
 - [ ] Make more Beautiful and responsive
